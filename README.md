@@ -1,4 +1,7 @@
-# Algorithms-in-Python-
+# Algorithms in Python 
 
-Euclid's Algorithm: 
-  A method for finding the greatest common divisor of any two integers, m and n. 
+These are implementations of various algorithms in Python. 
+
+### Euclid's Algorithm
+
+Finds the greatest common divisor of two integers, m and n. 
